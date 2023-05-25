@@ -1,0 +1,2 @@
+# FunnyBookmarkletForFriendsAndFamily
+Funny ;)

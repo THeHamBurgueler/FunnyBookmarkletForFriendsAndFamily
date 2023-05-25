@@ -7,7 +7,7 @@ javascript:(function() {
     newWindow.document.open();
     newWindow.document.write(html);
     newWindow.document.close();
-    setTimeout(openWindow, 500); // Adjust the delay (in milliseconds) between each window opening if desired
+    setTimeout(openWindow, 100); // Adjust the delay (in milliseconds) between each window opening if desired
   }
   
   openWindow();
